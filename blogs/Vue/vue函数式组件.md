@@ -2,9 +2,9 @@
 title: vue使用render来写组件
 date: 2020-08-18
 categories:
- - vue
+ - Vue
 tags:
- - vue
+ - Vue
 sidebar: 'auto'
 ---
 

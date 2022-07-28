@@ -1,5 +1,5 @@
 const { createSideBarConfig } = require('./util')
-const JAVASCRIPT_PATH = '/blogs/javascript'
+const JAVASCRIPT_PATH = '/blogs/JavaScript'
 const CSS_PATH = '/blogs/css'
 const PERFORM_PATH = '/blogs/perform'
 const ALGORITHM_PATH = '/blogs/algorithm'
