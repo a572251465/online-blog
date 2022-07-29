@@ -1,3 +1,13 @@
+---
+title:  二叉树知识梳理
+date: 2022-07-29
+tags:
+  - 算法
+categories:
+  - 算法
+sidebar: 'auto'
+---
+
 ## 二叉树基本概念
 
 ### 二叉树
