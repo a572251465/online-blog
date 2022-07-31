@@ -34,13 +34,13 @@ sidebar: 'auto'
 
 ## 函数`requestAnimationFrame`
 
-#### 1. 执行时机
+### 1. 执行时机
 
 <hr />
 
 - 在每次浏览器重绘之前执行(`修改的内容会随着新的绘制，再次显示到页面上`)
 
-#### 2. 使用方法
+### 2. 使用方法
 
 <hr />
 
@@ -59,7 +59,7 @@ function updateProgress() {
 requestAnimationFrame(updateProgress)
 ```
 
-#### 3. 如何取消
+### 3. 如何取消
 
 <hr />
 
