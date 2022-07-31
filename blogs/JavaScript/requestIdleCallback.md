@@ -14,7 +14,7 @@ sidebar: 'auto'
 
 <hr />
 
-![一帧执行过程](http://img.zhufengpeixun.cn/lifeofframe.jpg)
+![一帧执行过程](https://img-blog.csdnimg.cn/62733efb57b34a17a01c062a8046fe50.jpeg#pic_center)
 
 > - 上述截图是浏览器一帧时间的执行内容
 > - 我们按电脑的执行频率是 60hz 来算的话，是花费 16.7(`1000/60`)ms 浏览器会绘制一次
