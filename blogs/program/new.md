@@ -9,7 +9,7 @@ sidebar: 'auto'
 ---
 
 <div align = "center"><h1>new 过程</h1></div>
-<div align = "center"><h2><u>越努力，越幸运</u></h2></div>
+
 
 > 作为 js 的基础，充分了解 new 的实现过程非常重要，今天的目的就是重写 new 的过程，带大家来了解下
 

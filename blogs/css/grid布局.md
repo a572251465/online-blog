@@ -9,7 +9,7 @@ sidebar: 'auto'
 ---
 
 <div align = "center"><h1>grid布局</h1></div>
-<div align = "center"><h2><u>越努力，越幸运</u></h2></div>
+
 
 > 说起布局`grid`我相信重要程度比起`flex`不遑多让啊。除了兼容性方面，其余的方面都是很完美的。但是我相信随着技术的不断更替，兼容性已经不再是问题。那今天进让我们来看看`grid`到底能够干啥吧
 

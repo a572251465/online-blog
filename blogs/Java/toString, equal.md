@@ -1,5 +1,5 @@
 ---
-title: Java之toString 以及equals方法
+title: Java成神之路之toString 以及equals方法
 date: 2022-08-24
 tags:
   - Java
@@ -9,7 +9,7 @@ sidebar: 'auto'
 ---
 
 <div align = "center"><h1>toString 以及equals方法</h1></div>
-<div align = "center"><h2><u>越努力，越幸运</u></h2></div>
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/93a58d5bb6c1490a827844955a0f13ed.png#pic_center)
 

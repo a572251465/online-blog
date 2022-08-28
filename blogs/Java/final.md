@@ -1,5 +1,5 @@
 ---
-title: Java之final 修饰符
+title: Java成神之路之final 修饰符
 date: 2022-08-25
 tags:
   - Java
@@ -9,7 +9,7 @@ sidebar: 'auto'
 ---
 
 <div align = "center"><h1>final修饰符</h1></div>
-<div align = "center"><h2><u>越努力，越幸运</u></h2></div>
+
 
 > final 修饰符。可以修改类/ 方法/ 属性。 接下来一一进行分解下，如何进行修饰的
 

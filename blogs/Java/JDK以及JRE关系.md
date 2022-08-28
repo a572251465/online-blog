@@ -1,5 +1,5 @@
 ---
-title: Java之JDK,JRE 以及JVM 关系
+title: Java成神之路之JDK,JRE 以及JVM 关系
 date: 2022-08-16
 tags:
   - Java
@@ -9,7 +9,7 @@ sidebar: 'auto'
 ---
 
 <div align = "center"><h1>JDK,JRE 以及JVM 关系</h1></div>
-<div align = "center"><h2><u>越努力，越幸运</u></h2></div>
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7f71372eab76432089f53c3c691d8fc5.png#pic_center)
 

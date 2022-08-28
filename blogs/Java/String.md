@@ -1,5 +1,5 @@
 ---
-title: Java之String 类型
+title: Java成神之路之String 类型
 date: 2022-08-27
 tags:
   - Java
@@ -9,7 +9,7 @@ sidebar: 'auto'
 ---
 
 <div align = "center"><h1>String 类型</h1></div>
-<div align = "center"><h2><u>越努力，越幸运</u></h2></div>
+
 
 ## String 本质是什么？？？
 
