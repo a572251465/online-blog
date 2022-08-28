@@ -27,3 +27,35 @@ sidebar: 'auto'
 ## 刨析`equals`方法
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b450d5e10f9d478d8dda5b70f957c14e.png#pic_center)
+
+## 刨析`comparTo`方法
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/46d489cfba7c4efe905c24568a7e338f.png#pic_center)
+
+## String 类型声明的 内存分析
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/1b397c2ea4f148c6ac98a23c603baa62.png#pic_center)
+
+## StringBuilder
+
+> 字符串分为可变以及非可变的。例如:`String s = ''; `就是非可变的
+
+### 空构造函数过程
+
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/f48c64deb1454475b05a90f2f0327b4d.png)
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/d661d66b9466417baf4f589039ec5d02.png)
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/b687359bdee2417d96f8d778c2445dcd.png)
+
+- 通过上述实例 可以看到。其实`StringBuilder` 的本质就是`new char`的过程
+
+### 传递 int 参数的 构造函数
+
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/e728e1b7de334d5a98e0c16104f84847.png)
+- 跟上述图例 2 中内容保持一致
+
+### 传递 string 参数的 构造函数
+
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/a53ae51e129c4c368396d5720dea41e6.png)
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/81a4c3b7e0124c17ab0edd7621cfd1ba.png)
+- ![在这里插入图片描述](https://img-blog.csdnimg.cn/45e27bcda24c4fe1a6ad31ab27c142df.png)
+
